@@ -1,0 +1,14 @@
+09:55:29.903 [main] INFO  TestCases.LoginTest - ----Login Test Started----
+09:55:29.915 [main] DEBUG TestCases.LoginTest - This is a debug log message
+09:55:30.401 [main] INFO  TestCases.LoginTest - ----Click on MyAccount----
+09:55:30.402 [main] INFO  TestCases.LoginTest - ----CLicked on Login Button----
+09:55:30.633 [main] INFO  TestCases.LoginTest - ----Enter Email and Password----
+09:55:30.712 [main] INFO  TestCases.LoginTest - ----Click on Login----
+09:55:30.713 [main] INFO  TestCases.LoginTest - ----Login Test Finish----
+09:56:58.380 [main] INFO  TestCases.LoginTest - ----Login Test Started----
+09:56:58.384 [main] DEBUG TestCases.LoginTest - This is a debug log message
+09:56:58.853 [main] INFO  TestCases.LoginTest - ----Click on MyAccount----
+09:56:58.855 [main] INFO  TestCases.LoginTest - ----CLicked on Login Button----
+09:56:59.057 [main] INFO  TestCases.LoginTest - ----Enter Email and Password----
+09:56:59.145 [main] INFO  TestCases.LoginTest - ----Click on Login----
+09:56:59.145 [main] INFO  TestCases.LoginTest - ----Login Test Finish----
