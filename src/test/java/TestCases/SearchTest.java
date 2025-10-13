@@ -7,7 +7,7 @@ import TestBase.BaseTest;
 
 public class SearchTest extends BaseTest {
 
-//    @Test
+    @Test
     void testSearchItem() {
         SearchItemPage search = new SearchItemPage(driver);
 

@@ -12,3 +12,40 @@
 09:56:59.057 [main] INFO  TestCases.LoginTest - ----Enter Email and Password----
 09:56:59.145 [main] INFO  TestCases.LoginTest - ----Click on Login----
 09:56:59.145 [main] INFO  TestCases.LoginTest - ----Login Test Finish----
+10:35:41.553 [main] INFO  TestCases.LoginTest - ----Login Test Started----
+10:35:41.554 [main] DEBUG TestCases.LoginTest - This is a debug log message
+10:35:42.929 [main] INFO  TestCases.LoginTest - ----Click on MyAccount----
+10:35:42.929 [main] INFO  TestCases.LoginTest - ----CLicked on Login Button----
+10:35:43.380 [main] INFO  TestCases.LoginTest - ----Enter Email and Password----
+10:35:44.596 [main] INFO  TestCases.LoginTest - ----Click on Login----
+10:35:44.596 [main] INFO  TestCases.LoginTest - ----Login Test Finish----
+11:36:42.761 [main] INFO  TestCases.LoginTest - ----Login Test Started----
+11:36:42.766 [main] DEBUG TestCases.LoginTest - This is a debug log message
+11:36:43.284 [main] INFO  TestCases.LoginTest - ----Click on MyAccount----
+11:36:43.285 [main] INFO  TestCases.LoginTest - ----CLicked on Login Button----
+11:36:43.485 [main] INFO  TestCases.LoginTest - ----Enter Email and Password----
+11:36:43.577 [main] INFO  TestCases.LoginTest - ----Click on Login----
+11:36:43.577 [main] INFO  TestCases.LoginTest - ----Login Test Finish----
+11:36:51.537 [main] INFO  TestCases.AddToCartTest - ----Add to cart test Started----
+11:36:51.537 [main] DEBUG TestCases.AddToCartTest - This is a debug log message
+11:36:52.786 [main] INFO  TestCases.AddToCartTest - ----Clicked on item----
+11:36:52.862 [main] INFO  TestCases.AddToCartTest - ----Clicked on Add to cart button----
+11:36:52.863 [main] INFO  TestCases.AddToCartTest - ----Add to cart test finish----
+11:36:56.622 [main] INFO  TestCases.AddToWishlistTest - ----Add item to wishlist test started----
+11:36:56.719 [main] INFO  TestCases.AddToWishlistTest - ----Clicked on Item add to wishlist----
+11:36:56.720 [main] INFO  TestCases.AddToWishlistTest - ----Add to wishlist test finish----
+11:46:31.116 [main] INFO  TestCases.LoginTest - ----Login Test Started----
+11:46:31.126 [main] DEBUG TestCases.LoginTest - This is a debug log message
+11:46:31.656 [main] INFO  TestCases.LoginTest - ----Click on MyAccount----
+11:46:31.657 [main] INFO  TestCases.LoginTest - ----CLicked on Login Button----
+11:46:31.891 [main] INFO  TestCases.LoginTest - ----Enter Email and Password----
+11:46:32.903 [main] INFO  TestCases.LoginTest - ----Click on Login----
+11:46:32.904 [main] INFO  TestCases.LoginTest - ----Login Test Finish----
+11:46:38.707 [main] INFO  TestCases.AddToCartTest - ----Add to cart test Started----
+11:46:38.709 [main] DEBUG TestCases.AddToCartTest - This is a debug log message
+11:46:39.446 [main] INFO  TestCases.AddToCartTest - ----Clicked on item----
+11:46:39.591 [main] INFO  TestCases.AddToCartTest - ----Clicked on Add to cart button----
+11:46:39.591 [main] INFO  TestCases.AddToCartTest - ----Add to cart test finish----
+11:46:41.793 [main] INFO  TestCases.AddToWishlistTest - ----Add item to wishlist test started----
+11:46:41.939 [main] INFO  TestCases.AddToWishlistTest - ----Clicked on Item add to wishlist----
+11:46:41.940 [main] INFO  TestCases.AddToWishlistTest - ----Add to wishlist test finish----

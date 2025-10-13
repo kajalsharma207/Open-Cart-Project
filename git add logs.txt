@@ -1,0 +1,10 @@
+ 	git add logs/
+      	git add  pom.xml
+      	git add  reports/
+
+        git add run.bat
+        git add screenshots/
+        git add src/
+        git add target/
+        git add test-output/
+        git add testng.xml

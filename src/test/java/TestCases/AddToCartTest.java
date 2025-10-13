@@ -6,7 +6,7 @@ import TestBase.BaseTest;
 
 public class AddToCartTest extends BaseTest {
 	
-//	 @Test
+	 @Test
      void Test() {
     	 logger.info("----Add to cart test Started----");
     	 logger.debug("This is a debug log message");

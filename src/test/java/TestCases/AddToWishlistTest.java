@@ -5,7 +5,7 @@ import OpenCart.AddToWishlistPage;
 import TestBase.BaseTest;
 
 public class AddToWishlistTest extends BaseTest {
-//	@Test
+	@Test
     void Test() {
     	logger.info("----Add item to wishlist test started----");
 		    //Add to cart 
